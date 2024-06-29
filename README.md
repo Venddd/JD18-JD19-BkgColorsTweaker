@@ -6,6 +6,6 @@ If you have any troubles with using this thing,
 Or if you want to suggest something to make it better
 feel free to contact me on Discord @vend.
 
-#Some infoℹ
+# Some infoℹ
 Use it how you want, as long as credit me.
 Dont take this too seriously, the only reason i wrote it was to train my c# skils.🤍
