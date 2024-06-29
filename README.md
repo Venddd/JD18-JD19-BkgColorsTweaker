@@ -3,7 +3,7 @@ Changes Just Dance 2018 - 2019 background color on Wii (might work for Ps3 or X3
 
 # Just in case💌
 If you have any troubles with using this thing,
-<br />Or if you want to suggest something to make it better
+<br />Or if you want to suggest something to make it better,
 feel free to contact me on Discord @vend.
 
 # Some infoℹ
