@@ -7,5 +7,6 @@ If you have any troubles with using this thing,
 feel free to contact me on Discord "@vend.".
 
 # Some infoℹ
+Requires .NET Runtime 8 to run.
 Use it how you want, as long as credit me.
 <br />Dont take this too seriously, the only reason i wrote it was to train my c# skils.🤍
